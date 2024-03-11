@@ -1,0 +1,4 @@
+﻿symbol,物体名,ID,trigger,对话中图片,content,替换物体,获得道具,音效,触发条件,获得信件,tag,备注
+dialog,一楼门诊大厅,1,0,,,,,,,,Door,
+dialog,一楼办公室,1,0,,,,,,,,Door,
+dialog,一楼药房,1,0,,,,,,,,Door,

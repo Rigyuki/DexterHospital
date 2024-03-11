@@ -1,0 +1,126 @@
+{
+  "Hp": 100,
+  "Letters": [
+    {
+      "Name": "新手指导",
+      "isFound": 1
+    },
+    {
+      "Name": "杂物处带血信1",
+      "isFound": 0
+    },
+    {
+      "Name": "杂物处带血信2",
+      "isFound": 0
+    },
+    {
+      "Name": "杂物处带血信3",
+      "isFound": 0
+    },
+    {
+      "Name": "一楼尸体的信",
+      "isFound": 0
+    },
+    {
+      "Name": "监控室尸体的信",
+      "isFound": 0
+    },
+    {
+      "Name": "小夕男友的信",
+      "isFound": 0
+    },
+    {
+      "Name": "走廊里的纸条",
+      "isFound": 0
+    },
+    {
+      "Name": "VIP病房病人的信",
+      "isFound": 0
+    },
+    {
+      "Name": "清洁工的信",
+      "isFound": 0
+    },
+    {
+      "Name": "监控室尸体日记",
+      "isFound": 0
+    },
+    {
+      "Name": "克里斯汀给爷爷1",
+      "isFound": 0
+    },
+    {
+      "Name": "克里斯汀给爷爷2",
+      "isFound": 0
+    },
+    {
+      "Name": "爷爷给克里斯汀1",
+      "isFound": 0
+    },
+    {
+      "Name": "爷爷给克里斯汀2",
+      "isFound": 0
+    },
+    {
+      "Name": "爷爷给克里斯汀3",
+      "isFound": 0
+    },
+    {
+      "Name": "一楼地图",
+      "isFound": 1
+    },
+    {
+      "Name": "来自阿克的信1",
+      "isFound": 0
+    },
+    {
+      "Name": "来自阿克的信2",
+      "isFound": 0
+    },
+    {
+      "Name": "来自老钱的信1",
+      "isFound": 0
+    },
+    {
+      "Name": "来自老钱的信2",
+      "isFound": 0
+    },
+    {
+      "Name": "来自老钱的信3",
+      "isFound": 0
+    }
+  ],
+  "Npcs": [
+    {
+      "Name": "LaoQian",
+      "Hp": 100,
+      "Favor": 4,
+      "isFound": 1
+    },
+    {
+      "Name": "Kristen",
+      "Hp": 100,
+      "Favor": 4,
+      "isFound": 1
+    },
+    {
+      "Name": "XiaoXi",
+      "Hp": 100,
+      "Favor": 4,
+      "isFound": 1
+    },
+    {
+      "Name": "MrK",
+      "Hp": 100,
+      "Favor": 4,
+      "isFound": 1
+    }
+  ],
+  "Bag": [
+  ],
+  "Scenes": [
+    
+  ],
+  "SaveSceneName": "一楼杂物室",
+  "SaveTime": ""
+}
